@@ -2,4 +2,7 @@
   .widthCus {
     width: 100% !important;
   }
+  .carousel-item img {
+    height: 75vh;
+  }
 }
